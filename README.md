@@ -1,2 +1,2 @@
-# Algorithms-4th-Sem
+# Algorithms
 Algorithms implemented in C
